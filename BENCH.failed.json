@@ -1,0 +1,10 @@
+{
+  "project": "VEHICLE",
+  "category": "AUTOMOTIVE",
+  "path": "E:\\fenta\\Downloads\\The Anticloud\\ANTICLOUD_REPOS\\AUTOMOTIVE\\VEHICLE",
+  "status": "failed",
+  "reason": "no 40-hex git HEAD SHA (head='REMOVED_CONTAMINATED_SHA_PENDING_API_RESOLVE'; sanitized clone or .git absent)",
+  "files_count": 24,
+  "lines_of_code": 31,
+  "sha": "REMOVED_CONTAMINATED_SHA_PENDING_API_RESOLVE"
+}
